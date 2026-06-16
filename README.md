@@ -192,7 +192,3 @@ If you identify a discrepancy or know of an additional credible source, open an 
 ## License
 
 MIT — see `LICENSE` for details.
-
----
-
-*Built to combat apathy through data.*
